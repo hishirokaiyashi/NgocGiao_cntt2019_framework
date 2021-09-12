@@ -1,0 +1,7 @@
+D:\C#\BaiTap1_HelloWord\BaiTap1_HelloWord\bin\Debug\BaiTap1_HelloWord.exe.config
+D:\C#\BaiTap1_HelloWord\BaiTap1_HelloWord\bin\Debug\BaiTap1_HelloWord.exe
+D:\C#\BaiTap1_HelloWord\BaiTap1_HelloWord\bin\Debug\BaiTap1_HelloWord.pdb
+D:\C#\BaiTap1_HelloWord\BaiTap1_HelloWord\obj\Debug\BaiTap1_HelloWord.csprojAssemblyReference.cache
+D:\C#\BaiTap1_HelloWord\BaiTap1_HelloWord\obj\Debug\BaiTap1_HelloWord.csproj.CoreCompileInputs.cache
+D:\C#\BaiTap1_HelloWord\BaiTap1_HelloWord\obj\Debug\BaiTap1_HelloWord.exe
+D:\C#\BaiTap1_HelloWord\BaiTap1_HelloWord\obj\Debug\BaiTap1_HelloWord.pdb
